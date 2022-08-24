@@ -93,11 +93,11 @@ ul {
 }
 
 .women .header__button-change {
-    background: #C300C7;
+    background-color: #C300C7;
 }
 
 .men .header__button-change {
-    background: #1178B2;
+    background-color: #1178B2;
 }
 
 .header__button-gender {
